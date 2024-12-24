@@ -1,0 +1,3 @@
+D:/faculty/3rd year 1st term/sub/algo/task/Kruskal/cmake-build-debug/CMakeFiles/Kruskal.dir
+D:/faculty/3rd year 1st term/sub/algo/task/Kruskal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/faculty/3rd year 1st term/sub/algo/task/Kruskal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
